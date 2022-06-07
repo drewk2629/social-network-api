@@ -11,6 +11,8 @@ This will invoke node server.js to get the server running.
 
 From there we will access our data with an app called Insomnia. 
 (Feel free to use whatever API application you feel comfortable with, in the walkthrough I will be using Insomnia to test routes and their functionality.)
+## Walkthrough Video
+https://www.youtube.com/watch?v=3lND9Y-L7xQ
 ## Criteria
 Invoked from CLI
 
