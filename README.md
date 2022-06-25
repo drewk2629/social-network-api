@@ -3,7 +3,7 @@
 As a Social Media startup, I want an API for my Social Network that uses a NoSQL database (mongoose)
 so that my website can handle large amounts of unstructured data.
 ## How To Use
-After cloning the repository, open a terminal in the root directory and run npm i. 
+After cloning the repository, open a terminal in the root directory and run "npm i." 
 This will install all the needed dependencies. 
 
 After the install is complete, still in the root of the directory, run npm start. 
@@ -22,8 +22,9 @@ API Get routes for User(s) and Thought(s) data displayed in formatted JSON
 
 API Post, Put and Delete routes are successful
 ## Technologies Used
-express.js
+<ul>
+  <li>express.js</li>
 
-mongoose
+  <li>mongoose</li>
 
-mongodb
+  <li>mongodb</li>
